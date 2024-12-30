@@ -1,4 +1,6 @@
 pyOpenSSL
-secrets
 bcrypt
 flask
+flask-testing
+blinker
+requests
